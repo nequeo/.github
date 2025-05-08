@@ -4,7 +4,7 @@ Nequeo specializes in delivering high-quality software solutions tailored to mee
 Nequeo utilizes a variety of advanced technologies and packages, including Open Source projects, Media Foundation, threading packages, collections packages, and tools like a C++ cURL client wrapper and WebRTC, WebSocket, and math expression packages. 
 
 
-Nequeo also provides ways to connect and communicate through their contact us form on their website, and secure sign-in options using passkeys. We focus on providing flexible, tailored solutions, often involving custom software development and integration with third-party tools. 
+Nequeo also provides ways to connect and communicate through our contact us form on our website, and secure sign-in options using passkeys. We focus on providing flexible, tailored solutions, often involving custom software development and integration with third-party tools. 
 
 <!--
 
