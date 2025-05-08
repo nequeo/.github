@@ -1,4 +1,10 @@
-## Hi there 👋
+Nequeo is a software company that specializes in delivering high-quality software solutions tailored to meet the specific needs of their clients. Their offerings include custom software applications, third-party software tools, and innovative solutions in areas such as Security, Mathematics, Artificial Intelligence, and Media. 
+
+
+The company utilizes a variety of advanced technologies and packages, including Open Source projects, Media Foundation, threading packages, collections packages, and tools like a C++ cURL client wrapper and WebRTC, WebSocket, and math expression packages. 
+
+
+Nequeo also provides ways to connect and communicate through their contact us form on their website, and secure sign-in options using passkeys. They focus on providing flexible, tailored solutions, often involving custom software development and integration with third-party tools. 
 
 <!--
 
