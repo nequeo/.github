@@ -1,7 +1,7 @@
-Nequeo specializes in delivering high-quality software solutions tailored to meet the specific needs of our clients. Our offerings include custom software applications, third-party software tools, and innovative solutions in areas such as Security, Mathematics, Artificial Intelligence, and Media. See [Resources](https://www.dznequeo.net/ocvm1/pi/Org/Resources)
+Nequeo specializes in delivering high-quality software solutions tailored to meet the specific needs of our clients. Our offerings include custom software applications, third-party software tools, and innovative solutions in areas such as Security, Mathematics, Artificial Intelligence, and Media. [Resources](https://www.dznequeo.net/ocvm1/pi/Org/Resources)
 
 
-Nequeo utilizes a variety of advanced technologies and packages, including Open Source projects, Media Foundation, threading packages, collections packages, and tools like a C++ cURL client wrapper and WebRTC, WebSocket, and math expression packages. See [Software](https://www.dznequeo.net/ocvm1/pi/page?cid=software)
+Nequeo utilizes a variety of advanced technologies and packages, including Open Source projects, Media Foundation, threading packages, collections packages, and tools like a C++ cURL client wrapper and WebRTC, WebSocket, and math expression packages. [Software](https://www.dznequeo.net/ocvm1/pi/page?cid=software)
 
 
 Nequeo also provides ways to connect and communicate through our contact us form on our website, and secure sign-in options using passkeys. We focus on providing flexible, tailored solutions, often involving custom software development and integration with third-party tools. [Security](https://www.dznequeo.net/ocvm1/pi/Page?cid=security)
